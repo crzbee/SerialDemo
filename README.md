@@ -21,7 +21,7 @@ externalNativeBuild {
 
 ## 4、编译生成so文件
 > `Build` -> `Make Project` 
-> 编译出来的so文件所在路径 `app\build\intermediates\stripped_native_libs\debug\out\lib\armeabi-v7a`
+> 经测试，编译出来的so文件所在路径 `app\build\intermediates\stripped_native_libs\debug\out\lib\armeabi-v7a`
 
 ## 到此完成，已经可以使用串口通信
 
